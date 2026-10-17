@@ -37,8 +37,6 @@ namespace RegistroGastos
                         break;
 
                     case 4:
-                        GuardarGastos();
-                        Console.WriteLine("Gastos guardados correctamente.");
                         Console.WriteLine("Programa finalizado.");
                         break;
 
